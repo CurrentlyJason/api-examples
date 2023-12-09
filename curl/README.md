@@ -1,3 +1,3 @@
 ## Running
 
-`./index.sh YOURAPIKEY`
+`./index.sh MjUzNzBiMTQtYmJiYS00YTg4LWI1NTYtMTBlMmZiOGFhYTdj`
